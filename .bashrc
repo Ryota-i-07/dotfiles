@@ -21,6 +21,7 @@ export GFORTRAN_CONVERT_UNIT='big_endian'
 # User specific aliases and functions
 alias lsh='ls -lt | head -10'
 alias p='python'
+alias py='python'
 alias py2='source activate py2'
 alias py3='source activate py3'
 alias e='emacs'
